@@ -1,0 +1,15 @@
+cl_*
+trk_*
+jet_AntiKt6LCTopo_*
+jet_AntiKt6LCTopo_*
+mu_calo_*
+mu_muid_*
+ph_*
+tau_cell_*
+tau_cluster_*
+tau_jet_*
+tau_otherTrk_*
+tau_seedCalo_track_*
+trig_L2_*
+trig_L1_*
+trig_RoI_*
